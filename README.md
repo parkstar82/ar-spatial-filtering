@@ -31,7 +31,7 @@ We simulated a **Depth-4 R-tree** (City -> District -> Neighborhood -> Building)
 #### 0. Baseline Map (The Data)
 This is the complete dataset indexed by a hierarchical R-tree.
 <div align="center">
-  <img src="assets/00_baseline_clean.gif" alt="Baseline Map" width="600"/>
+  <img src="assets/00_baseline_clean.png" alt="Baseline Map" width="600"/>
 </div>
 
 #### Comparison: Standard vs. AR Filter

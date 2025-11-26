@@ -43,7 +43,7 @@
 ### 0. 기준 지도 (Baseline Map)
 실험에 사용된 계층적 R-tree 데이터 구조입니다. 촘촘한 그물망은 말단 노드(건물)를 나타냅니다.
 <div align="center">
-  <img src="assets/00_baseline_clean.gif" alt="Baseline Map" width="600"/>
+  <img src="assets/00_baseline_clean.png" alt="Baseline Map" width="600"/>
 </div>
 
 ### 🔍 알고리즘 비교 (Standard vs Optimized)
