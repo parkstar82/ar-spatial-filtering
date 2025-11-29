@@ -45,7 +45,7 @@ This is the complete dataset indexed by a hierarchical R-tree.
 
 ```bash
 # Clone and Install
-git clone [https://github.com/YOUR_USERNAME/ar-spatial-filtering.git](https://github.com/YOUR_USERNAME/ar-spatial-filtering.git)
+git clone [https://github.com/parkstar82/ar-spatial-filtering.git](https://github.com/parkstar82/ar-spatial-filtering.git)
 cd ar-spatial-filtering
 pip install -r requirements.txt
 

@@ -63,7 +63,7 @@
 
 ```bash
 # 저장소 복제
-git clone [https://github.com/YOUR_USERNAME/ar-spatial-filtering.git](https://github.com/YOUR_USERNAME/ar-spatial-filtering.git)
+git clone [https://github.com/parkstar82/ar-spatial-filtering.git](https://github.com/parkstar82/ar-spatial-filtering.git)
 cd ar-spatial-filtering
 
 # 의존성 패키지 설치
